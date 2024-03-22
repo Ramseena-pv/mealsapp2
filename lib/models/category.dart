@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:mealsapp2/screens/categories.dart';
 
 
 class Category {
